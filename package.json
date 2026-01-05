@@ -1,6 +1,7 @@
 {
   "name": "finance-management-system",
   "version": "1.0.0",
+   "type": "module",
   "description": "A comprehensive finance management system for businesses",
   "main": "index.js",
   "scripts": {
